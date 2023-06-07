@@ -1,3 +1,7 @@
+huge thank you to [Sadek Baroudi](https://github.com/sadekbaroudi)
+
+KLOTZ with a roller wheel (EVQWGD001)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/KLOTZ_font_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/docs/images/KLOTZ_font_bright.svg">
