@@ -1,6 +1,9 @@
-huge thank you to [Sadek Baroudi](https://github.com/sadekbaroudi)
 
-KLOTZ with a roller wheel (EVQWGD001)
+# KLOTZ EVQWGD001 MOD
+
+**note: This is a modified version of the original KLOTZ PCB that replaces the EC12 rotary encoder with a EVQWD001 'roller wheel' encoder. In its current state the encoder is not reversible and only works on the right side, and there is also no push button support.
+
+huge thank you to [Sadek Baroudi](https://github.com/sadekbaroudi)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/KLOTZ_font_dark.svg">
