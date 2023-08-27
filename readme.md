@@ -5,6 +5,11 @@
 
 huge thank you to [Sadek Baroudi](https://github.com/sadekbaroudi)
 
+TODO: 
+- mirror EVQWD001 footprint for use on left side
+- add push button support
+      
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/KLOTZ_font_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/docs/images/KLOTZ_font_bright.svg">
